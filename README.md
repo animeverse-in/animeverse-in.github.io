@@ -1,1 +1,3 @@
-# animeverse-in.github.io
+# animeverse.in
+
+Website for `animeverse.in`.
