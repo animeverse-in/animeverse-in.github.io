@@ -1,3 +1,3 @@
 # animeverse.in
 
-Website for `animeverse.in`.
+Website for Animeverse Android App.
